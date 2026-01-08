@@ -32,3 +32,4 @@ yarn-error.log
 .prettierrc
 postcss.config.js
 
+public/assets/js/*.js
