@@ -1,0 +1,36 @@
+composer.lock
+
+# Зависимости
+/vendor
+
+# Конфигурация (локальные настройки)
+config/
+config/database.php
+config/general.php
+config/common.php
+
+.env
+
+# Кэш и временные файлы
+/storage/
+storage/logs/
+storage/cache/
+storage/framework/
+storage/app/public/
+storage/*.key
+
+# Локальные файлы разработки
+.DS_Store
+Thumbs.db
+*.log
+npm-debug.log
+yarn-error.log
+
+# IDE
+.vscode/
+.idea/
+.editorconfig
+.eslintrc.json
+.prettierrc
+postcss.config.js
+
