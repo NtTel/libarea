@@ -33,6 +33,8 @@ yarn-error.log
 postcss.config.js
 
 public/uploads/
+
+# Локальные JS изменения
 public/assets/js/app.js
 public/assets/js/common.js
 public/assets/js/la.js
